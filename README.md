@@ -20,5 +20,5 @@ preferrably `feature-you-are-working-on`
 `git push origin branch-name`
 8. Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
 9. Wait for your PR review and merge approval!
-10. Star this repository if you had fun!
+10. Star this repository.yes
 
