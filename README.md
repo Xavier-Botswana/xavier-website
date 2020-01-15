@@ -3,11 +3,11 @@ repo holds code and documentation on xavier's website
 
 ## How To Get Started
 1. Fork this repository
-`https://github.com/Developers-Circle-Gaborone/bwjobsforgraduates.git`
+`https://github.com/Xavier-Botswana/xavier-website.git`
 2. Clone your fork down to your local machine
-`git clone https://github.com/YOUR-NAME/bwjobsforgraduates.git`
+`git clone https://github.com/YOUR-NAME/xavier-website.git`
 get into the directory
-`cd bwjobsforgraduates`
+`cd xavier-website`
 3. Create a branch
 `git checkout -b branch-name`
 preferrably `feature-you-are-working-on`
@@ -21,5 +21,4 @@ preferrably `feature-you-are-working-on`
 8. Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
 9. Wait for your PR review and merge approval!
 10. Star this repository if you had fun!
-11. Check your changes by clicking here [bwJobsForGraduatesWebsite](http://bwjobsforgraduates.s3-website.us-east-2.amazonaws.com/)
 
